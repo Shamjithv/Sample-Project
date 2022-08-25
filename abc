@@ -1,0 +1,42 @@
+[33mcommit c349f2f10a32075f3680181ca233992944500152[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Shamjith <shamjith@sweans.com>
+Date:   Thu Aug 25 09:33:13 2022 +0530
+
+    hello
+
+[33mcommit 4eb2fad2d6403b574c839afe8f614382d275c137[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: e7cc13d 6f71ac1
+Author: Shamjith <shamjith@sweans.com>
+Date:   Thu Aug 25 09:28:46 2022 +0530
+
+    WIP on master: e7cc13d second file modified
+
+[33mcommit 6f71ac13e38191dbe6f15085e93778fb07a73c9e[m
+Author: Shamjith <shamjith@sweans.com>
+Date:   Thu Aug 25 09:28:46 2022 +0530
+
+    index on master: e7cc13d second file modified
+
+[33mcommit e7cc13d0127e2f19b6f90a739f32a0eec065ff3e[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Shamjith <shamjith@sweans.com>
+Date:   Thu Aug 25 09:07:21 2022 +0530
+
+    second file modified
+
+[33mcommit 5a711f3f7203626ecfad35a7b297ee8748c78b07[m
+Author: Shamjith <shamjith@sweans.com>
+Date:   Thu Aug 25 09:00:28 2022 +0530
+
+    second file
+
+[33mcommit 0eeb95badc7baef39b5fc577af7c7cfe2567ee53[m
+Author: Shamjith <shamjith@sweans.com>
+Date:   Wed Aug 24 18:54:36 2022 +0530
+
+    add new lines
+
+[33mcommit 820018f57493ba2e99ab155f3f9dbed2dde2de48[m
+Author: Shamjith <shamjith@sweans.com>
+Date:   Wed Aug 24 18:46:33 2022 +0530
+
+    first commit
